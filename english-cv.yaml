@@ -1,0 +1,48 @@
+metadata:
+  version: chinese
+
+name: Xiao Ming
+email: xxxx@gmail.com
+picture: "picture.jpeg"
+github: https://github.com/lizzy-0323
+homepage: https://lizzy-0323.github.io
+
+education-experience:
+  - name: XXX University
+    duration: 2023/09 -- 2026/06
+    field: Cybersecurity
+    award: Recommended for exemption, academic graduate student
+  - name: Ke Lai Deng University
+    duration: 2019/09 -- 2023/06
+    field: software Engineering
+    award: First-class scholarship, Science, outstanding student
+
+work-experience:
+  - name: xxx
+    duration: 2023/09 -- 2026/06
+    summary: xxxx
+    details:
+      - item: xxx
+      - item: xxx
+
+research-experience:
+  - name: xxx
+    price: nips
+    duration: 2023/09 -- 2026/06
+    details:
+      - item: xxx
+      - item: xxx
+
+project-experience:
+  - name: xxx
+    price: xxx
+    duration: 2023/09 -- 2026/06
+    details:
+      - item: xxx
+      - item: xxx
+
+skills:
+  - name: programming language
+    details: cpp, golang
+  - name: tools
+    details: docker
