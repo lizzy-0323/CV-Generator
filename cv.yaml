@@ -1,21 +1,20 @@
 metadata:
-  version: chinese
-
-name: Xiao Ming
+  version: english
+name: Nai Long
 email: xxxx@gmail.com
 picture: "picture.jpeg"
-github: https://github.com/lizzy-0323
-homepage: https://lizzy-0323.github.io
+github: https://github.com/xxx
+homepage: https://xxx.github.io
 
 education-experience:
   - name: XXX University
     duration: 2023/09 -- 2026/06
     field: Cybersecurity
-    award: Recommended for exemption, academic graduate student
-  - name: Ke Lai Deng University
+    award: Recommended for exemption
+  - name: XXX University
     duration: 2019/09 -- 2023/06
     field: software Engineering
-    award: First-class scholarship, Science, outstanding student
+    award: First-class scholarship, outstanding student
 
 work-experience:
   - name: xxx
@@ -46,3 +45,5 @@ skills:
     details: cpp, golang
   - name: tools
     details: docker
+  - name: english
+    details: cet-6
