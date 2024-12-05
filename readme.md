@@ -82,7 +82,7 @@ skills:
 You can change the `version` field in metadata to `chinese` to generate a Chinese CV. And delete the field that you don't need.
 
 ## Showcases
-![Preview]("resume.png")
+![Preview](resume.png)
 
 ## Acknowledgements
 
