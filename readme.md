@@ -1,9 +1,12 @@
 # CV-Generator
 
+[中文](readme-CN.md) | English
+
+![Preview](resume.png)
+
 ## Overview
 
 **CV-Generator** is a tool that helps you to generate your cv with a simple yaml, it is simple but really useful, specially for cs major students.
-
 
 ## Features
 
@@ -16,18 +19,26 @@
 ## Getting Started
 
 ### Prerequisites
+
 Python 3.x
+
 ### Installation
+
 1. Clone the repository
+
 ```bash
 git clone https://github.com/yourusername/cv-generator.git
 cd cv-generator
 ```
+
 2. Install the required packages
+
 ```bash
 pip install -r requirements.txt
 ```
+
 3. Edit the `cv.yaml` file with your information. The file can be formatted as follows:
+
 ```yaml
 metadata:
   version: english
@@ -79,11 +90,9 @@ skills:
   - name: english
     details: cet-6
 ```
-You can change the `version` field in metadata to `chinese` to generate a Chinese CV. And delete the field that you don't need.
 
-## Showcases
-![Preview](resume.png)
+You can change the `version` field in metadata to `chinese` to generate a Chinese CV. And delete the field that you don't need.
 
 ## Acknowledgements
 
-[Chi's cv] (https://github.com/skyzh/chicv)
+[Chi's cv] (<https://github.com/skyzh/chicv>)
